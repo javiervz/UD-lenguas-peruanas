@@ -1,0 +1,6 @@
+# sent_id = code-1-candy mishito chahonmun Paco muhukihnu
+1	mishito	_	NOUN	_	_	4	nsubj	4:nsubj	_
+2	chaho=n=mun	_	ADJ	_	_	1	nmod	1:nmod	_
+3	Paco	_	NOUN	_	_	4	obj	4:obj	_
+4	muhu=ki=h=nu	_	VERB	_	_	0	root	0:root	_
+5	.	_	PUNCT	_	_	4	punct	4:punct	_
