@@ -1,7 +1,9 @@
 # UD-lenguas-peruanas
-## Protocolo de anotación de oraciones para el treebank multiparalelo de lenguas peruanas (cómo ponemos orden al caos :))
-1. Cada anotadxr debe crear una carpeta local en su propio PC. Crearemos una carpeta "DATOS" en dropbox, con subcarpetas por lengua. 
-2. Cada oración en 1 archivo! El nombre debe indicar el anotador y la oración! En la carpeta DATOS, crearemos un word/excel de METADATOS que organice y numere todas las oraciones. 
+## Protocolo de anotación de oraciones para el treebank multiparalelo de lenguas peruanas (cómo ponemos orden al caos :) versión del viernes 29 de Abril: Candy + Renzo + Javier)
+En un intento de ordenar el trabajo futuro, pensamos en ciertas recomendaciones sencillas sobre las tareas de anotación. Avisen cualquier cambio/sugerencia/error.
+1. Cada anotador debe crear una carpeta local en su propio PC. Crearemos una carpeta compartida "DATOS-UD" en dropbox, con subcarpetas por lengua. Dentro de cada carpeta por lengua, hay dos carpetas: "materiales" y "nombre lengua". En "materiales", deben guardarse las gramáticas/artículos usados; en "nombre lengua", deben ir las oracionea anotadas.
+2. En la carpeta DATOS, crearemos un word/excel de METADATOS que organice y numere todas las oraciones.
+2. Dentro de la carpeta "nombre lengua", cada oración corresponde a 1 archivo! El nombre debe indicar el anotador y la oración!  
 3. Nombre de los archivos: anotador-número oración (según el archivo de METADATOS). El mismo nombre del archivo debe estar como comentario con signo #
 4. Deben ponerse las traducciones al español/inglés con signo #. Se pueden separar traducciones de la fuente y traducciones libres de los anotadores. 
 5. Deben buscarse **fuentes** de oraciones para cada lengua (gramáticas, diccionarios). Las fuentes deben estar en la carpeta de cada lengua. Tarea de los anotadores (la lista es preliminar: CONFIRMAR!). 
