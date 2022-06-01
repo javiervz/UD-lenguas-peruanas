@@ -34,6 +34,8 @@ En un intento de ordenar el trabajo futuro, pensamos en ciertas **recomendacione
     - Elegir las oraciones (idealmente, unas 10)
     - Oración común
     - Mini manual de uso del software
+14. Reunión jueves 19 de mayo 2022
+    - 
 
 
 
